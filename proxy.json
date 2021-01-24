@@ -1,0 +1,8 @@
+{
+    "/":{
+        "target":"https://recruiting-datasets.s3.us-east-2.amazonaws.com",
+        "secure":false,
+        "logLevel":"debug",
+        "changeOrigin":true
+    }
+}

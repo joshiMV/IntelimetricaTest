@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+.th2{
+    background-color: cadetblue;
+}
+.th1{
+    background-color: darkcyan;
+}
+.estrella{
+    color: gold;
+}
+form{
+    display:inline;
+}
+#titulo{
+    margin:auto;
+    text-align:center;
+}
